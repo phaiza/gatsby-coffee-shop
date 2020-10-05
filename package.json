@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Coffee-Project",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "a coffee shop project to take orders using contentful",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Faiza Ahmed <phaiza@gmail.com>",
   "dependencies": {
     "gatsby": "^2.24.66",
     "gatsby-image": "^2.4.20",
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/phaiza/gatsby-coffee-shop.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  
   }
 }
